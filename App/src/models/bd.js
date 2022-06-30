@@ -1,9 +1,9 @@
 // const pg = require('pg')
 // const client = new pg.Client({
-//   user: 'postgres',
+//   user: 'user',
 //   host: 'localhost',
-//   database: 'db_user',
-//   password: 'H&bR0697',
+//   database: 'db_name',
+//   password: 'db_password',
 //   port: 5432,
 // });
 // client.connect(function(err) {

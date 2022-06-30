@@ -13,7 +13,3 @@ exports.insert = async (req, res) => {
         return res.render('includes/404');
     }
 }
-
-exports.select = (req, res) => {
-    res.render('index');
-}
